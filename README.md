@@ -23,7 +23,7 @@ I'm a passionate software engineer with an agile focus in full-stack development
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
 - 💬 Ask me about **JavaScript, C, Java, and Emulators**
 - 📫 How to reach me: [rogersoftware2022@gmail.com](mailto:rogersoftware2022@gmail.com)
-- ⚡ Fun fact: In my free time, I enjoy skateboarding, hiking and playing my 60's style Fender Strat guitar in Candy Red Paint
+- ⚡ Fun fact: In my free time, I enjoy skateboarding, hiking and playing my 60's style Fender Strat guitar in Candy Apple Red Paint
 
 ## 🛠 Skills
 
