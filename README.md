@@ -53,7 +53,7 @@ I'm a passionate software engineer with an agile focus in full-stack development
 A full-stack web application built with React and Node.js, featuring user authentication, real-time data updates, and responsive design.
 
 ### [Project 2: Emulator Automation](https://github.com/EngineerMichael/Emulator-automation)
-A collection of scripts and configurations to automate CI/CD pipelines, infrastructure provisioning, and monitoring.
+A collection of scripts and configurations to automate emulation of console engines, graphic infrastructure provisioning, and monitoring.
 
 ## Connect with Me
 
