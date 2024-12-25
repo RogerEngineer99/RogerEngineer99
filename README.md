@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/roger-bonilla-sdlc-75919b125/)
 
-👩‍💻 I'm currently apply for engineering internships or opportunities in IT or Software or Embedded Systems
+👩‍💻 I'm currently applying for engineering internships or opportunities in IT or Software or Embedded Systems
 
 🧠 Undergraduate B.Sc.Computer Science
 
