@@ -3,7 +3,7 @@
 
 👩‍💻 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/michael-k-30a548a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/roger-bonilla-sdlc-75919b125/)
 
 👩‍💻 I'm currently apply for engineering internships or opportunities in IT or Software or Embedded Systems
 
@@ -57,8 +57,8 @@ A collection of scripts and configurations to automate emulation of console engi
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/michael-k-30a548a9/)
-  
+- [LinkedIn](https://www.linkedin.com/in/roger-bonilla-sdlc-75919b125/)
+
 - [GitHub](https://github.com/RogerEngineer99)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate or just say hello. 😊
