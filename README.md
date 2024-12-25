@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a young, passionate 25 year old software engineer with an agile focus in full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
+I'm a young, passionate 25 year-old software engineer with an agile focus in full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
 
 - 🌱 I’m currently learning **REST** and **Emulators**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
