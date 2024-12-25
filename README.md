@@ -1,13 +1,11 @@
 
-# Hi there, I'm Michael 👋🏻
+# Hi there, I'm Roger 👋🏻
 
 👩‍💻 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/michael-k-30a548a9/)
 
-👩‍💻 I'm currently working for GE Aerospace (General Electric Aerospace) 
-
-![image](https://github.com/user-attachments/assets/73d59f2e-e87a-40ae-98bc-59a1e3fda0df)
+👩‍💻 I'm currently apply for engineering internships or opportunities in IT or Software or Embedded Systems
 
 🧠 Undergraduate B.Sc.Computer Science - Undergraduate B.Sc.Electrical & Computer Engineering
 
