@@ -61,5 +61,6 @@ A collection of scripts and configurations to automate emulation of console engi
 
 - [GitHub](https://github.com/RogerEngineer99)
 - [LeetCode](https://leetcode.com/u/rogerengineer99/)
+- [Postman](https://www.postman.com/fullstack-api-engineer-99)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate or just say hello. 😊
